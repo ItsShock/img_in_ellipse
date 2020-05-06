@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="3.022">
+  <testsuite name="Zadanie" errors="0" failures="0" skipped="0" timestamp="2020-03-09T13:36:03" time="2.49" tests="3">
+    <testcase classname="Zadanie" name="Sekcja zajmuje 100% viewportu" time="0.009">
+    </testcase>
+    <testcase classname="Zadanie" name="Sekcja ma flexa, który wyśrodkuje jej zawartość" time="0.003">
+    </testcase>
+    <testcase classname="Zadanie" name="Div jest okrągły i zajmuje 50% wysokości i szerokości sekcji" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
