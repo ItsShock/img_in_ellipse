@@ -1,0 +1,24 @@
+section{
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.img{
+    background-image: url(coral-reefs-6004041_1920.jpg);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.ellipse{
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    opacity: 50%;
+    border-radius: 50%;
+}
